@@ -1,1 +1,0 @@
-﻿New-ItemProperty -Path "HKLM:\SOFTWARE\Policies\Microsoft\Windows\Installer" -Name "DisableMSI" -Value ”2”  -PropertyType "DWORD"
